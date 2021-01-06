@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "@babel/polyfill": "^7.10.4",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "fractional": "^1.0.0",
     "global": "^4.4.0",
     "live-server": "^1.2.1",
