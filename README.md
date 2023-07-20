@@ -1,7 +1,3 @@
-# forkify
-
-Here is a draft README.md for a Forkify app repository:
-
 # Forkify Recipe App
 
 This is a recipe application with custom recipe uploads and bookmarks. Built with JavaScript, forkify allows you to search for recipes, view details, add ingredients to a shopping list, and manage your own recipes and bookmarks.
